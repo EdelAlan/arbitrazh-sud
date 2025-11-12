@@ -235,7 +235,15 @@
                     />
                   </svg>
                   <p class="text-gray-700">
-                    Телефоны: + 7 705 450 9360 (WhatsApp, Telegram).
+                    Телефоны:
+                    <a
+                      href="https://wa.me/77054509360"
+                      target="_blank"
+                      class="text-blue-600 hover:text-blue-800 underline"
+                    >
+                      + 7 705 450 9360
+                    </a>
+                    (WhatsApp, Telegram).
                   </p>
                 </div>
 
@@ -253,7 +261,16 @@
                       d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9v-9m0-9v9m0 9c-5 0-9-4-9-9s4-9 9-9"
                     />
                   </svg>
-                  <p class="text-gray-700">Сайт: https://arbitrazh-sud.kz</p>
+                  <p class="text-gray-700">
+                    Сайт:
+                    <a
+                      href="https://arbitrazh-sud.kz"
+                      target="_blank"
+                      class="text-blue-600 hover:text-blue-800 underline"
+                    >
+                      https://arbitrazh-sud.kz
+                    </a>
+                  </p>
                 </div>
 
                 <div class="flex items-start">
@@ -270,7 +287,15 @@
                       d="M3 8l7.89 4.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"
                     />
                   </svg>
-                  <p class="text-gray-700">E-mail: mister_murik@mail.ru</p>
+                  <p class="text-gray-700">
+                    E-mail:
+                    <a
+                      href="mailto:mister_murik@mail.ru"
+                      class="text-blue-600 hover:text-blue-800 underline"
+                    >
+                      mister_murik@mail.ru
+                    </a>
+                  </p>
                 </div>
               </div>
             </div>
@@ -316,7 +341,13 @@
                 </svg>
                 <p class="text-blue-800 font-medium">
                   За консультацией Вы можете обратиться по телефонам:
-                  +7-705-450-93-60, (WhatsApp, Telegram).
+                  <a
+                    href="https://wa.me/77054509360"
+                    target="_blank"
+                    class="text-blue-600 hover:text-blue-800 underline"
+                  >
+                    +7-705-450-93-60 </a
+                  >, (WhatsApp, Telegram).
                 </p>
               </div>
             </div>
