@@ -2,6 +2,11 @@
 export default defineNuxtConfig({
   compatibilityDate: "2025-07-15",
   devtools: { enabled: true },
-  modules: ["@nuxt/eslint", "@nuxt/ui"],
+  nitro: {
+    experimental: {
+      openAPI: true,
+    },
+  },
+  modules: ["@nuxt/eslint", "@nuxt/ui", "@nuxthub/core"],
   css: ["~/assets/css/main.css"],
 });
